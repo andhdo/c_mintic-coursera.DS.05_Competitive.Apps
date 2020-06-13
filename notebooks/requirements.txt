@@ -1,0 +1,1 @@
+# pandas==1.0.4 # fix for aggreates. previous version updated (pandas==0.25.3) for compatibility with colab
